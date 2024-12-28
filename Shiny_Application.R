@@ -53,7 +53,6 @@ ui <- fluidPage(
   
 )
 
-
 # Defining the server code 
 server <- function(input, output) {
   
